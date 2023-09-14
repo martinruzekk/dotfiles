@@ -1,0 +1,11 @@
+[init]
+	defaultBranch = main
+[user]
+	name = Martin Růžek
+	email = me@martinruzek.cz
+[alias]
+	st = status -sb
+	ll = log --oneline
+	last = log -1 HEAD --stat
+	cm = commit -m
+	gl = config --global -l
